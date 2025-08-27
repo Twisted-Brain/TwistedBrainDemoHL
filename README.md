@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="Assets/tb.png" alt="TwistedBrain Logo" width="200">
+</div>
+
 # TwistedBrain HashLink Demo
 
 A simple OpenFL Haxe demo application for HashLink VM showcasing TwistedBrain graphics.
@@ -146,3 +150,9 @@ If you encounter "Failed to load library lime.hdll" when running HL/JIT:
 ## Assets
 
 All logo assets are sourced from the TB-graphics collection and are automatically embedded in the application during build.
+
+---
+
+<div align="center">
+  <em>Made in a AI:Human DevOps cooperation process</em>
+</div>
